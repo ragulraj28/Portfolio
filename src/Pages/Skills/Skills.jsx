@@ -6,6 +6,7 @@ import Css from '../../assets/Logo/css.svg';
 import Jquery from '../../assets/Logo/jquery.svg';
 import ReactJs from '../../assets/Logo/reactjs.svg';
 import Js from '../../assets/Logo/javascript.svg';
+import Github from '../../assets/Logo/github.svg';
 
 const Skills = () => {
   const skills = [
@@ -32,6 +33,10 @@ const Skills = () => {
     {
       name: 'React js',
       icon_src: ReactJs
+    },
+    {
+      name: 'Github',
+      icon_src: Github
     }
   ]
   return (

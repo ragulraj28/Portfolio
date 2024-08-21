@@ -11,7 +11,7 @@ const Footer = () => {
 
         <div className="container flex-res">
         
-            <p>Copyright @ {year} | Developed by Ragulraj Nagendran</p>
+            <p>Copyright @ {year}</p>
         
         </div>
 

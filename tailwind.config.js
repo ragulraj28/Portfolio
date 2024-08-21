@@ -10,7 +10,7 @@ module.exports = {
     fontFamily: {
       'logo':["Kaushan Script"],
       'primary': ["Monsterrat", 'sans-serif'],
-      'secondary':["Abel", 'sans-serif']
+      'secondary':["Poppins", 'sans-serif']
     },
     
   },
