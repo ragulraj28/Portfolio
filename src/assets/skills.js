@@ -14,7 +14,8 @@ const skills = [
     {
         skill: 'React Js',
         percentage: 60,
-    }
+    },
+    
 ];
 
 export default skills;

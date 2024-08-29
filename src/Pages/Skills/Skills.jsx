@@ -7,6 +7,7 @@ import Jquery from '../../assets/Logo/jquery.svg';
 import ReactJs from '../../assets/Logo/reactjs.svg';
 import Js from '../../assets/Logo/javascript.svg';
 import Github from '../../assets/Logo/github.svg';
+import Redux_toolkit from '../../assets/Logo/redux.svg';
 
 const Skills = () => {
   const skills = [
@@ -37,6 +38,10 @@ const Skills = () => {
     {
       name: 'Github',
       icon_src: Github
+    },
+    {
+      name: 'Redux-toolkit',
+      icon_src: Redux_toolkit
     }
   ]
   return (
