@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.2610b713.css",
-    "main.js": "/Portfolio/static/js/main.37e0cde9.js",
+    "main.js": "/Portfolio/static/js/main.d1d34fe4.js",
     "static/media/about.jpg": "/Portfolio/static/media/about.0140d56a49e92d56e3e8.jpg",
     "static/media/skills.jpg": "/Portfolio/static/media/skills.a934c3f82b42fe17f92c.jpg",
     "static/media/contact.jpg": "/Portfolio/static/media/contact.88e9d7b92087e2a09fb2.jpg",
     "static/media/home.jpg": "/Portfolio/static/media/home.436bf4a06f298abb463b.jpg",
     "static/media/ragulraj.jpg": "/Portfolio/static/media/ragulraj.66c38999ac73a015cf6a.jpg",
-    "static/media/Ragulraj_Resume.pdf": "/Portfolio/static/media/Ragulraj_Resume.a58d2650526e09e2ba0e.pdf",
+    "static/media/Ragulraj_Resume.pdf": "/Portfolio/static/media/Ragulraj_Resume.b06961f12c887079b388.pdf",
     "static/media/reactjs.svg": "/Portfolio/static/media/reactjs.4ee8d0003d0f7f9ccea03ac4aa13fb99.svg",
     "static/media/css.svg": "/Portfolio/static/media/css.dbd31fe14ec796185689723739441965.svg",
     "static/media/redux.svg": "/Portfolio/static/media/redux.0e4fb1c819ac4c060c92343147d4ccf7.svg",
@@ -20,10 +20,10 @@
     "static/media/html.svg": "/Portfolio/static/media/html.2b2e078a005e3b67d05cd71b6b2b0f7f.svg",
     "static/media/tailwind.svg": "/Portfolio/static/media/tailwind.d84a6f369e7170891c4a19587ccf78e1.svg",
     "main.2610b713.css.map": "/Portfolio/static/css/main.2610b713.css.map",
-    "main.37e0cde9.js.map": "/Portfolio/static/js/main.37e0cde9.js.map"
+    "main.d1d34fe4.js.map": "/Portfolio/static/js/main.d1d34fe4.js.map"
   },
   "entrypoints": [
     "static/css/main.2610b713.css",
-    "static/js/main.37e0cde9.js"
+    "static/js/main.d1d34fe4.js"
   ]
 }
