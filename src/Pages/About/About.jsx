@@ -15,9 +15,12 @@ const About = () => {
         <div className="col-right">
            <h2>About</h2>
            <p>I’m a frontend developer passionate about creating sleek, user-friendly websites and applications. With expertise in HTML, Tailwind CSS, JavaScript, and modern frameworks like React, I bring designs to life and ensure a seamless user experience.</p>
-           <div className='experience'><span>Experience:</span>
-            <p>Frontend developer at Klickflow.<br/>
-            Oct, 2022 - Jun, 2024.</p>
+           <div className='experience'>
+            <span>Experience:</span>
+            <ul>
+              <li><p>React.js Developer Intern at HireWalks.<br/> Jan, 2025 - Apr, 2025.</p></li>
+              <li><p>Frontend developer at Klickflow.<br/> Oct, 2022 - Jun, 2024.</p></li>
+            </ul>
            </div>
            <Button buttonLInk={Resume} buttonText={'Resume'} />
         </div>

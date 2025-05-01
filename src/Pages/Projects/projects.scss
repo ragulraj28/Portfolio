@@ -6,4 +6,44 @@
     
     }
 
+    .container {
+
+        @apply flex flex-col items-center justify-center gap-10;
+
+    }
+
+    .projects-wrapper {
+
+        @apply flex flex-wrap items-center justify-center gap-10;
+
+        .project-card {
+
+            @apply flex flex-col gap-2.5 items-center cursor-pointer;
+
+            figure {
+
+                @apply h-80 w-80 rounded-lg overflow-hidden;
+
+                img {
+
+                    @apply h-full w-full object-cover transition-all duration-500;
+
+                }
+
+                &:hover {
+
+                    img {
+    
+                        @apply scale-110;
+    
+                    }
+    
+                }
+
+            }
+            
+        }
+
+    }
+
 }
