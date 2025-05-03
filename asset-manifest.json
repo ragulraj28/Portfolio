@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.e7093962.css",
-    "main.js": "/Portfolio/static/js/main.57d08c54.js",
+    "main.js": "/Portfolio/static/js/main.5420b7f5.js",
     "static/media/Soudemy-05-01-2025_03_08_PM.jpg": "/Portfolio/static/media/Soudemy-05-01-2025_03_08_PM.8d12f40ddfabbde54be4.jpg",
     "static/media/about.jpg": "/Portfolio/static/media/about.0140d56a49e92d56e3e8.jpg",
     "static/media/Mini-eCommerce-05-01-2025_04_46_PM.jpg": "/Portfolio/static/media/Mini-eCommerce-05-01-2025_04_46_PM.58343d944b5a9296b464.jpg",
+    "static/media/Rewardify-05-03-2025_03_53_PM.jpg": "/Portfolio/static/media/Rewardify-05-03-2025_03_53_PM.a60ab1796334432f40b1.jpg",
     "static/media/WeHr-05-01-2025_02_33_PM.jpg": "/Portfolio/static/media/WeHr-05-01-2025_02_33_PM.456bd67434b0cdd009b1.jpg",
     "static/media/skills.jpg": "/Portfolio/static/media/skills.a934c3f82b42fe17f92c.jpg",
     "static/media/projects.jpg": "/Portfolio/static/media/projects.0feee2aad35ede2adc78.jpg",
@@ -24,10 +25,10 @@
     "static/media/html.svg": "/Portfolio/static/media/html.2b2e078a005e3b67d05cd71b6b2b0f7f.svg",
     "static/media/tailwind.svg": "/Portfolio/static/media/tailwind.d84a6f369e7170891c4a19587ccf78e1.svg",
     "main.e7093962.css.map": "/Portfolio/static/css/main.e7093962.css.map",
-    "main.57d08c54.js.map": "/Portfolio/static/js/main.57d08c54.js.map"
+    "main.5420b7f5.js.map": "/Portfolio/static/js/main.5420b7f5.js.map"
   },
   "entrypoints": [
     "static/css/main.e7093962.css",
-    "static/js/main.57d08c54.js"
+    "static/js/main.5420b7f5.js"
   ]
 }
