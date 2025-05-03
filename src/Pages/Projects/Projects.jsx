@@ -3,6 +3,7 @@ import './projects.scss';
 import wehrProject from '../../assets/Images/WeHr-05-01-2025_02_33_PM.jpg';
 import soudemyProject from '../../assets/Images/Soudemy-05-01-2025_03_08_PM.jpg';
 import ecomm from '../../assets/Images/Mini-eCommerce-05-01-2025_04_46_PM.jpg';
+import rewardifyProject from '../../assets/Images/Rewardify-05-03-2025_03_53_PM.jpg';
 import Button from '../../components/Button/Button';
 
 const Projects = () => {
@@ -13,6 +14,15 @@ const Projects = () => {
       <div className="container">
         <h2>Projects</h2>
         <div className="projects-wrapper">
+          <div className="project-card">
+            <a href='https://rewardifyvendor.netlify.app/' target="_blank" rel="noreferrer">
+              <figure>
+                <img src={rewardifyProject} alt="rewardify" />
+              </figure>
+            </a>
+            <p>Rewardify - React</p>
+            <Button buttonText={"Github"} onClick={() => window.open("https://github.com/ragulraj28/Rewardify", "_blank")}/>
+          </div>
           <div className="project-card">
             <a href='https://wehr.netlify.app/' target="_blank" rel="noreferrer">
               <figure>
@@ -34,7 +44,7 @@ const Projects = () => {
           <div className="project-card">
             <a href='https://minicomm.netlify.app/' target="_blank" rel="noreferrer">
               <figure>
-                <img src={ecomm} alt="wehr" />
+                <img src={ecomm} alt="ecomm" />
               </figure>
             </a>
             <p>miniEcommerce - Fullstack</p>
